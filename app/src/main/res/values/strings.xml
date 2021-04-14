@@ -1,0 +1,9 @@
+<resources>
+    <string name="edit_book">Enter Book</string>
+    <string name="edit_chapter">Enter Chapter</string>
+    <string name="edit_verse">Enter Verse</string>
+    <string name="button_load">Load Scripture</string>
+    <string name="button_display">DisplayScripture</string>
+    <string name="app_name">Scripture Loader</string>
+    <string name="button_save">Save Scripture</string>
+</resources>
